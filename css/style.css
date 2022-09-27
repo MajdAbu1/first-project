@@ -1,0 +1,198 @@
+.top {
+    height: 700px;
+    background-color: #FFF6BF;
+    margin-top: 0px;
+    padding: 50px;
+    margin-bottom: 0;
+}
+
+.name {
+    display: inline-block;
+    margin-right: 50px;
+
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.MySkills {
+    height: 100px;
+    float: left;
+    margin-right: 2cm;
+}
+
+.support {
+    height: 100px;
+    float: right;
+    margin-left: 2cm;
+
+}
+
+hr {
+    border-top: dotted 15px;
+    border-bottom: none;
+    width: 5cm;
+    color: #66bfbf;
+}
+
+h1 {
+    font-size: 4.6em;
+    color: #66bfbf;
+    font-family: Segoe Print;
+    display: inline-block;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: #66bfbf;
+    padding-bottom: 20px;
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: #66bfbf;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0;
+
+}
+
+.m {
+    height: 700px;
+    background-color: white;
+    margin-top: 0px;
+    padding: 0px;
+    margin-bottom: 0;
+    position: relative;
+}
+
+.welcome {
+
+    position: relative;
+    bottom: 80px;
+}
+
+.finall {
+    height: 700px;
+    background-color: #D6CDA4;
+    margin-top: 0px;
+    padding: 50px;
+    margin-bottom: 0;
+}
+
+.cloud {
+    position: relative;
+    left: 400px;
+    top: 5px;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.cloud2 {
+    position: relative;
+    right: 400px;
+    top: 5px;
+
+}
+
+.mountain {
+    height: 500px;
+    display: block;
+    margin-bottom: 0;
+
+    position: relative;
+    left: 700px;
+    bottom: 150px;
+}
+
+.middle-container {
+    background-color: white;
+}
+
+.profile {
+    height: 220px;
+    margin-top: 20px;
+
+}
+.wave{
+    height: 100px;
+}
+.profiletag{
+    width: 400px;
+    margin-left: 550px;
+}
+.contact-me{
+    height: 300px;
+    line-height: 2;
+
+
+
+}
+.bottom-container {
+    background-color: #66bfbf;
+    height: 50px;
+    padding: 20px 0px 20px;
+    line-height: 2;
+
+}
+.mess{
+    width: 40%;
+    margin: auto;
+}
+.myButton {
+    margin-bottom: 30px;
+    margin-top: 30px;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:35px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:9px 52px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer-link{
+    margin-top: 20px;
+    padding: 50px;
+    line-height: 2;
+
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+}
+.name { 
+ color: white;
+ position: relative;
+ left: 30px;
+
+}
